@@ -45,8 +45,8 @@ This project showcases the full hardware development cycle, display integration,
 **Oscilo Labs** designs and develops custom electronics with a strong focus on analog signal processing, embedded UI, and intelligent sensor systems.  
 We specialize in rapid prototyping, in-house testing, and full-stack firmware development.
 
-🌐 Website: *Coming soon*  
-📩 Contact: [hello@oscilolabs.com](mailto:hello@oscilolabs.com)
+🌐 Website: oscilolabs.com 
+📩 Contact: [nuwan@oscilolabs.com](mailto:hello@oscilolabs.com)
 
 ---
 
