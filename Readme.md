@@ -20,10 +20,10 @@ This project showcases the full hardware development cycle, display integration,
 ## 📷 Visual Overview
 
 ### 🔌 PCB View (Assembly Stage)
-![REM Pod PCB] https://github.com/rntharaka1/REM-Pod/blob/main/REM%20Pod-02.png
+https://github.com/rntharaka1/REM-Pod/blob/main/REM%20Pod-02.png
 
 ### 📟 Display Active (LVGL-ready IPS)
-![REM Pod Display On] https://github.com/rntharaka1/REM-Pod/blob/main/REM%20Pod-01.png
+https://github.com/rntharaka1/REM-Pod/blob/main/REM%20Pod-01.png
 
 ---
 
